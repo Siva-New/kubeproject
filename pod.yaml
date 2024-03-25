@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
         - name: hello
-          image: dhiv123/kubeproject1:latest
+          image: sivanew/kubeproject1:latest
           imagePullPolicy: Always
 
